@@ -1,5 +1,8 @@
 ## Hello there!
 
+- 🔭 I’m currently working at EQUALS.
+- 🌱 Learning React Native, Angular and NodeJS.
+
  <div>
   <a href="https://github.com/leoaraujogomes">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leoaraujogomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
