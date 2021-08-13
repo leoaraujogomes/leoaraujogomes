@@ -5,7 +5,8 @@
 
  <div>
   <a href="https://github.com/leoaraujogomes">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=leoaraujogomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=leoaraujogomes&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoaraujogomes&layout=compact&langs_count=7&theme=highcontrast "/>
 </div>
  
  ## Languages I am used to 👇
