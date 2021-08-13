@@ -26,5 +26,5 @@
   <img align="center" alt="Oracle" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 </div>
 
- 
+
  ##
