@@ -1,7 +1,6 @@
 ## Hello there!
 
-- 🔭 I’m currently working at EQUALS.
-- 🌱 Learning React Native, Angular and NodeJS.
+- 🌱 Learning React, Angular and NodeJS.
 
  <div>
   <a href="https://github.com/leoaraujogomes">
