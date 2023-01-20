@@ -1,10 +1,10 @@
 ## Hello there!
 
- <!--<div>
+<div>
   <a href="https://github.com/leoaraujogomes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leoaraujogomes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoaraujogomes&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>-->
+</div>
  
  ## Languages I am used to 👇
  
@@ -13,7 +13,8 @@
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">   _   
   <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">   _   
   <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">   _   
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">   _   
+  <img align="center" alt="Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="right" alt="Gif" height="140" width="155" src="https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 </div>
   
@@ -26,7 +27,7 @@
   <img align="center" alt="MongoDB" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
 </div>
 
-  ## Other tools I use 👇
+  ## Other stacks I use 👇
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Jira" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg">   _   
